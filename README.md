@@ -10,4 +10,4 @@ The original Word documents are stored only in the private repository ij-teacher
 
 To edit content, update the data files on main. GitHub Pages serves the repository root. Source materials retain their authors’ rights.
 
-U2-1 is served by index.html. Continue to U2-2 opens u2-2.html, which includes the source letter template.
+The homepage is a lesson menu. U2-1 opens u2-1.html, and U2-2 opens u2-2.html. The Letter template section has been removed from the website.
