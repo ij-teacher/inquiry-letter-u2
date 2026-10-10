@@ -1,0 +1,402 @@
+{
+  "lessons": [
+    {
+      "id": "u2-1",
+      "title": "A school equipment inquiry",
+      "subtitle": "Read a clear request for a catalog, product information, and school discounts.",
+      "sender": [
+        "Alex Chen",
+        "Science Teacher",
+        "Bright Horizon School",
+        "123 Education Lane",
+        "Springfield, IL 62704",
+        "achen@brighthorizonschool.edu"
+      ],
+      "date": "March 26, 2026",
+      "recipient": [
+        "Customer Service Department",
+        "TechNova Science Supplies",
+        "4500 Industrial Way, Suite 200",
+        "San Francisco, CA 94103"
+      ],
+      "subject": "Request for 2026 Product Catalog and Pricing Information",
+      "salutation": "Dear Customer Service Team,",
+      "blocks": [
+        {
+          "text": "I am writing to request a copy of your 2026 Science Equipment Catalog."
+        },
+        {
+          "text": "Bright Horizon School is planning to upgrade our science classrooms, and we have heard excellent feedback about your equipment. We are considering purchasing new tools and materials for our students and would like more information about your products."
+        },
+        {
+          "text": "Specifically, we are interested in the following items:",
+          "list": [
+            "Digital microscopes",
+            "Laboratory glassware (such as beakers and test tubes)",
+            "Electronic scales"
+          ]
+        },
+        {
+          "text": "If a digital version (PDF) of your catalog is available, please email it to me. If you provide a printed catalog, kindly mail a copy to the school address listed above."
+        },
+        {
+          "text": "Additionally, I would like to ask if you offer bulk-purchase discounts for schools. We are preparing to place an order for the upcoming semester and would appreciate information about your pricing."
+        },
+        {
+          "text": "Thank you for your assistance. I look forward to your reply."
+        }
+      ],
+      "closing": [
+        "Sincerely,",
+        "(Signature)",
+        "Alex Chen",
+        "Science Teacher",
+        "Bright Horizon School"
+      ],
+      "comprehension": [
+        [
+          "Why is Bright Horizon School requesting the 2026 Science Equipment Catalog?",
+          "The school plans to upgrade its science classrooms and wants more information before purchasing new tools and materials."
+        ],
+        [
+          "What specific types of equipment is the school interested in purchasing?",
+          "Digital microscopes, laboratory glassware such as beakers and test tubes, and electronic scales."
+        ],
+        [
+          "What two formats of the catalog does the sender mention?",
+          "A digital PDF catalog and a printed catalog."
+        ],
+        [
+          "What additional information does the sender request regarding pricing?",
+          "Information about pricing and bulk-purchase discounts for schools."
+        ],
+        [
+          "When is the school planning to place an order?",
+          "For the upcoming semester."
+        ]
+      ],
+      "matching": [
+        [
+          "upgrade",
+          "To improve something or replace it with a better version"
+        ],
+        [
+          "catalog",
+          "A list of items, often with descriptions and prices"
+        ],
+        [
+          "bulk-purchase",
+          "To buy a large quantity of items at one time"
+        ],
+        [
+          "purchase",
+          "To buy something"
+        ],
+        [
+          "provide",
+          "To give or supply something"
+        ],
+        [
+          "request",
+          "To ask for something politely or formally"
+        ],
+        [
+          "available",
+          "Ready to be used, bought, or obtained"
+        ],
+        [
+          "discount",
+          "A lower price than usual"
+        ],
+        [
+          "appreciate",
+          "To be thankful for something or to understand its value"
+        ]
+      ],
+      "definitionOrder": [
+        3,
+        0,
+        5,
+        4,
+        7,
+        6,
+        2,
+        8,
+        1
+      ],
+      "gaps": [
+        {
+          "sentence": "The company decided to ___ its computer system to improve efficiency.",
+          "answer": "upgrade"
+        },
+        {
+          "sentence": "Please check the online ___ for a full list of products and prices.",
+          "answer": "catalog"
+        },
+        {
+          "sentence": "We can save money if we ___ office supplies for the whole department.",
+          "answer": "bulk-purchase"
+        },
+        {
+          "sentence": "Customers can ___ tickets through the company’s official website.",
+          "answer": "purchase"
+        },
+        {
+          "sentence": "The training program will ___ new employees with useful skills.",
+          "answer": "provide"
+        },
+        {
+          "sentence": "If you have any special needs, please ___ assistance in advance.",
+          "answer": "request"
+        },
+        {
+          "sentence": "This position is currently ___ and open to fresh graduates.",
+          "answer": "available"
+        },
+        {
+          "sentence": "Students can receive a special ___ with a valid student ID.",
+          "answer": "discount"
+        },
+        {
+          "sentence": "We truly ___ your time and interest in our company.",
+          "answer": "appreciate"
+        }
+      ],
+      "includedExercises": [
+        "I. Comprehension Questions",
+        "II. Matching",
+        "III. Fill in the Blanks"
+      ],
+      "excludedExercises": [
+        "IV. Formal rewriting",
+        "V. Writing Practice"
+      ]
+    },
+    {
+      "id": "u2-2",
+      "title": "A supplier inquiry for FreshMart",
+      "subtitle": "Ask for the commercial details needed before choosing a supplier.",
+      "sender": [
+        "Emily Wong",
+        "Purchasing Assistant",
+        "FreshMart Grocery Store",
+        "28 Greenfield Road",
+        "Seattle, WA 98122",
+        "emily.wong@freshmartstore.com"
+      ],
+      "date": "October 5, 2026",
+      "recipient": [
+        "Sales Department",
+        "Pacific Harvest Foods Co.",
+        "1200 Ocean Trade Avenue",
+        "Long Beach, CA 90802"
+      ],
+      "salutation": "Dear Sir or Madam,",
+      "blocks": [
+        {
+          "text": "I am writing on behalf of FreshMart Grocery Store to inquire about your canned food products. We are currently looking for reliable suppliers for canned fish, canned fruit, and canned vegetables, as we plan to expand our product selection for the upcoming year."
+        },
+        {
+          "text": "We would appreciate it if you could provide more detailed information about the following:",
+          "list": [
+            "The types and varieties of canned fish, fruit, and vegetables you produce (e.g., tuna, sardines, peaches, pineapples, corn, peas).",
+            "Your wholesale price list, including discounts for large or repeated orders.",
+            "The minimum order quantity for each product line.",
+            "Available packaging sizes and materials (such as 185g, 350g, 1kg cans).",
+            "The shelf life of your products and recommended storage conditions.",
+            "Estimated delivery time, payment terms, and shipping options for orders to Seattle.",
+            "Whether your company can provide sample products for us to evaluate quality before placing a bulk order."
+          ]
+        },
+        {
+          "text": "If possible, please also send us your latest product catalog or a link to your online version. This will help us better understand your full range of canned products."
+        },
+        {
+          "text": "Thank you very much for your time and assistance. We look forward to receiving your reply and hope we can establish a long-term business relationship with your company."
+        }
+      ],
+      "closing": [
+        "Yours faithfully,",
+        "Emily Wong",
+        "Purchasing Assistant",
+        "FreshMart Grocery Store"
+      ],
+      "comprehension": [
+        [
+          "Why is FreshMart Grocery Store contacting Pacific Harvest Foods?",
+          "To inquire about canned food products and find reliable suppliers as it expands its product selection."
+        ],
+        [
+          "What three categories of products does FreshMart want to know about?",
+          "Canned fish, canned fruit, and canned vegetables."
+        ],
+        [
+          "Name three types of information FreshMart requests.",
+          "For example: wholesale prices and discounts, minimum order quantities, and packaging sizes. Other valid answers include product varieties, shelf life and storage conditions, delivery, payment and shipping details, and samples."
+        ],
+        [
+          "Where is the order expected to be shipped?",
+          "Seattle."
+        ],
+        [
+          "What does the company want to receive before placing a large order? Why?",
+          "Sample products, so it can evaluate their quality before placing a bulk order."
+        ],
+        [
+          "What additional material does the sender request to learn more about the company’s products?",
+          "The latest product catalog or a link to the online version."
+        ]
+      ],
+      "trueFalse": [
+        [
+          "FreshMart Grocery Store is writing to place an order immediately.",
+          false,
+          "It is requesting information before making a purchasing decision."
+        ],
+        [
+          "The purpose of the letter is to inquire about canned food products.",
+          true,
+          "The opening paragraph states this purpose."
+        ],
+        [
+          "FreshMart is only interested in canned fish products.",
+          false,
+          "It is interested in canned fish, canned fruit, and canned vegetables."
+        ],
+        [
+          "The company is looking for reliable suppliers to expand its product selection.",
+          true,
+          "This is stated in the opening paragraph."
+        ],
+        [
+          "The letter asks for information about wholesale prices and discounts.",
+          true,
+          "The second request asks for a wholesale price list and discounts."
+        ],
+        [
+          "Packaging sizes such as 180g, 250g, and 2kg are mentioned in the letter.",
+          false,
+          "The sizes in the letter are 185g, 350g, and 1kg."
+        ],
+        [
+          "The sender requests information about delivery to Los Angeles.",
+          false,
+          "The requested delivery destination is Seattle."
+        ],
+        [
+          "FreshMart asks about maximum order quantity for each product line.",
+          false,
+          "It asks about the minimum order quantity."
+        ],
+        [
+          "The company wants to evaluate product quality before making a bulk purchase.",
+          true,
+          "It requests samples to evaluate quality before placing a bulk order."
+        ],
+        [
+          "The letter expresses interest in establishing a long-term business relationship.",
+          true,
+          "The closing paragraph expresses this hope."
+        ]
+      ],
+      "matching": [
+        [
+          "conditions",
+          "The terms or requirements of an agreement"
+        ],
+        [
+          "establish",
+          "To officially start or create something"
+        ],
+        [
+          "expand",
+          "To increase in size, number, or activity"
+        ],
+        [
+          "estimated",
+          "A price or quantity that is roughly calculated, not exact"
+        ],
+        [
+          "wholesale",
+          "The selling of goods in large quantities, usually at lower prices"
+        ],
+        [
+          "evaluate",
+          "To judge or examine something carefully"
+        ],
+        [
+          "inquire",
+          "To ask for information or details"
+        ],
+        [
+          "on behalf of",
+          "Acting for another person or organization"
+        ],
+        [
+          "reliable",
+          "Trusted to work well or correctly"
+        ],
+        [
+          "suppliers",
+          "People or companies that provide goods or materials"
+        ]
+      ],
+      "definitionOrder": [
+        6,
+        8,
+        9,
+        1,
+        7,
+        0,
+        2,
+        3,
+        5,
+        4
+      ],
+      "gaps": [
+        {
+          "sentence": "I am writing ___ the manager to confirm the order details.",
+          "answer": "on behalf of"
+        },
+        {
+          "sentence": "Please feel free to ___ about our latest products and services.",
+          "answer": "inquire"
+        },
+        {
+          "sentence": "We are looking for ___ business partners we can trust.",
+          "answer": "reliable"
+        },
+        {
+          "sentence": "The company works with several local ___ to ensure stable supply.",
+          "answer": "suppliers"
+        },
+        {
+          "sentence": "The business plans to ___ its operations into new markets next year.",
+          "answer": "expand"
+        },
+        {
+          "sentence": "These products are sold at ___ prices for large orders.",
+          "answer": "wholesale"
+        },
+        {
+          "sentence": "Please review the payment ___ before signing the contract.",
+          "answer": "conditions"
+        },
+        {
+          "sentence": "The ___ delivery time is five to seven business days.",
+          "answer": "estimated"
+        },
+        {
+          "sentence": "We would like to ___ the quality of the samples before purchase.",
+          "answer": "evaluate"
+        },
+        {
+          "sentence": "Our goal is to ___ a long-term partnership with your company.",
+          "answer": "establish"
+        }
+      ]
+    }
+  ],
+  "answerPolicy": "Comprehension model answers and objective answer keys derived from the supplied letters. Written responses are self-reviewed, not automatically graded.",
+  "sourceNotes": "Original Word documents are stored in the private materials repository. U2-1 exercises IV and V are excluded from the public lesson. A minor grammatical typo in the U2-2 True/False statement was normalized from ask to asks."
+}
