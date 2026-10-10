@@ -9,3 +9,5 @@ Code: index.html, style.css and app.js. Lesson texts and answer keys: data/lesso
 The original Word documents are stored only in the private repository ij-teacher/inquiry-letter-u2-materials and are not available from this public website. Written responses are self-reviewed against model answers. Objective matching, gap-fill and True/False responses are checked in the browser. Answers are not submitted to a server.
 
 To edit content, update the data files on main. GitHub Pages serves the repository root. Source materials retain their authors’ rights.
+
+U2-1 is served by index.html. Continue to U2-2 opens u2-2.html, which includes the source letter template.
